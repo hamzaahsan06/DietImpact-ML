@@ -1,3 +1,3 @@
-import streamlit as st
-import pandas as pd
+x = 2
+print(x)
 
